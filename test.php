@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
-echo "Welcome!!";
+echo "Welcome to Cloud Azure!!";
 ?>
 </body>
 </html>
